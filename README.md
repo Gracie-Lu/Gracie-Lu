@@ -5,7 +5,9 @@
    <li>In my free time I study vocal pedagogy and swim for the Willamette Bearcats</li>
  </ul>
 
- <img src="your-banner.png" alt="Banner" width="100%">
+<p align = "center">
+ <img src="workspace_readme..jpg" alt="Banner" width="100%">
+</p>
 
 #### Languages I Use:
 
