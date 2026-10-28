@@ -6,7 +6,7 @@
  </ul>
 
 <p align = "center">
- <img src="workspace_readme..jpg" alt="Banner">
+ <img src="workspace_readme..jpg" alt="Banner" width="100%">
 </p>
 
 #### Languages I Use:
